@@ -8,3 +8,4 @@ An example for Persian support in LOVE ([LÖVE - Free 2D Game Engine](https://lo
 Inspired from:
 
 https://github.com/RamiLego4Game/LoveArabic
+ 
